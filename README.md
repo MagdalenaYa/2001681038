@@ -1,5 +1,7 @@
 # 2001681038
 HW- Magdalena Yankova
+UD- This was one of mynfirst projects as a software delepoer, and now im looking back at it..-
+
 namespace HWCalculator
 {
     public partial class Calculator : Form
